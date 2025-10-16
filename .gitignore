@@ -1,6 +1,6 @@
 # Project Files
 
-variables.env
+.env
 
 # Python-generated files
 __pycache__/
